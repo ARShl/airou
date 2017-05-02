@@ -2,3 +2,9 @@
  .body{
      width: 1024px;
  }
+
+ .attack{
+     width:100px;
+     height: 100px;
+     background-color: aqua;
+ }
